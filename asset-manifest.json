@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/React-todo-list/static/css/main.41fa3343.chunk.css",
-    "main.js": "/React-todo-list/static/js/main.2e122794.chunk.js",
-    "main.js.map": "/React-todo-list/static/js/main.2e122794.chunk.js.map",
-    "runtime-main.js": "/React-todo-list/static/js/runtime-main.d32e8de8.js",
-    "runtime-main.js.map": "/React-todo-list/static/js/runtime-main.d32e8de8.js.map",
-    "static/js/2.2865622b.chunk.js": "/React-todo-list/static/js/2.2865622b.chunk.js",
-    "static/js/2.2865622b.chunk.js.map": "/React-todo-list/static/js/2.2865622b.chunk.js.map",
-    "index.html": "/React-todo-list/index.html",
-    "static/css/main.41fa3343.chunk.css.map": "/React-todo-list/static/css/main.41fa3343.chunk.css.map",
-    "static/js/2.2865622b.chunk.js.LICENSE.txt": "/React-todo-list/static/js/2.2865622b.chunk.js.LICENSE.txt"
+    "main.css": "/My-portfolio/static/css/main.be831d46.chunk.css",
+    "main.js": "/My-portfolio/static/js/main.783616c0.chunk.js",
+    "main.js.map": "/My-portfolio/static/js/main.783616c0.chunk.js.map",
+    "runtime-main.js": "/My-portfolio/static/js/runtime-main.a0705a75.js",
+    "runtime-main.js.map": "/My-portfolio/static/js/runtime-main.a0705a75.js.map",
+    "static/js/2.ad5ea2f1.chunk.js": "/My-portfolio/static/js/2.ad5ea2f1.chunk.js",
+    "static/js/2.ad5ea2f1.chunk.js.map": "/My-portfolio/static/js/2.ad5ea2f1.chunk.js.map",
+    "index.html": "/My-portfolio/index.html",
+    "static/css/main.be831d46.chunk.css.map": "/My-portfolio/static/css/main.be831d46.chunk.css.map",
+    "static/js/2.ad5ea2f1.chunk.js.LICENSE.txt": "/My-portfolio/static/js/2.ad5ea2f1.chunk.js.LICENSE.txt",
+    "static/media/LindaCV.4ae11cf7.pdf": "/My-portfolio/static/media/LindaCV.4ae11cf7.pdf",
+    "static/media/Todo-List-App.a85fa127.PNG": "/My-portfolio/static/media/Todo-List-App.a85fa127.PNG",
+    "static/media/icons8-mysql-logo.b9a7de2d.svg": "/My-portfolio/static/media/icons8-mysql-logo.b9a7de2d.svg",
+    "static/media/linda_logo.12c8a424.svg": "/My-portfolio/static/media/linda_logo.12c8a424.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d32e8de8.js",
-    "static/js/2.2865622b.chunk.js",
-    "static/css/main.41fa3343.chunk.css",
-    "static/js/main.2e122794.chunk.js"
+    "static/js/runtime-main.a0705a75.js",
+    "static/js/2.ad5ea2f1.chunk.js",
+    "static/css/main.be831d46.chunk.css",
+    "static/js/main.783616c0.chunk.js"
   ]
 }
